@@ -1,10 +1,14 @@
 # ClassificationLandscapes
 Visualizations of machine learning predictions trained on morphed images and interpolated data, in collaboration with Lin Shi and Larry Liebovitch, Ph.D. 
 
-This project was presented at the Conference of Information Science and Systems 2023 at John Hopkins University, and published on [IEEE Xplore] the Conference Proceedings of the 2023 57th Annual Conference on Information Sciences and Systems (CISS): [https://ieeexplore.ieee.org/document/10089673](https://ieeexplore.ieee.org/document/10089673)
+This project was presented at the Conference of Information Science and Systems 2023 at John Hopkins University, and published on the Conference Proceedings of the 2023 57th Annual Conference on Information Sciences and Systems (CISS): [https://ieeexplore.ieee.org/document/10089673](https://ieeexplore.ieee.org/document/10089673)
 
-W. Powers, L. Shi and L. S. Liebovitch, "Tools and Visualizations for Exploring Classification Landscapes," 2023 57th Annual Conference on Information Sciences and Systems (CISS), Baltimore, MD, USA, 2023, pp. 1-6, doi: 10.1109/CISS56502.2023.10089673.
-Abstract: Neural networks and deep learning systems find the correct classification of input data by locating the corresponding local minima in the hyper-dimensional, classification landscape. An increasing number of adversarial examples have now shown that these networks sometimes find an unexpected and incorrect minimum and so make an incorrect classification. To understand those results requires a better understanding of the nature of these classification landscapes. Previous studies have explored the properties of the landscape of back propagation in training these networks. In our studies here, we explore the classification landscape of already trained networks. We present some novel procedures and analytical tools to study the classification land-scape and visualizations to meaningfully represent those results. We apply these methods to study the classification landscape in classic examples, including image classification in the MNIST data set and flower classification from numerical feature values in the Iris data set.
+This project uses an [Automatic Image Morphing](https://github.com/jankovicsandras/autoimagemorph) tool developed by András Jankovics, which was adapted from a [Python Image Morpher](https://github.com/ddowd97/Morphing) developed by David Dowd.
+
+The data used for analysis and visualization include: 
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset by Han Xiao, Kashif Rasul and Roland Vollgraf. [arXiv:1708.07747](https://arxiv.org/abs/1708.07747)
+- [IRIS](https://archive.ics.uci.edu/dataset/53/iris) dataset by R.A. Fisher
+- [Three Hawks](https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/Stat2Data/Hawks.csv) 
 
 
-This project uses an [Automatic Image Morphing](https://github.com/jankovicsandras/autoimagemorph) tool developed by [András Jankovics](https://github.com/jankovicsandras), which was adapted from a [Python Image Morpher](https://github.com/ddowd97/Morphing) developed by [David Dowd](https://github.com/ddowd97)
+
