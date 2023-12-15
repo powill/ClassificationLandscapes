@@ -6,7 +6,7 @@ This project was presented at the Conference of Information Science and Systems 
 This project uses an [Automatic Image Morphing](https://github.com/jankovicsandras/autoimagemorph) tool developed by András Jankovics, which was adapted from a [Python Image Morpher](https://github.com/ddowd97/Morphing) developed by David Dowd.
 
 The data used for analysis and visualization include: 
-- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset by Han Xiao, Kashif Rasul and Roland Vollgraf. [arXiv:1708.07747](https://arxiv.org/abs/1708.07747)
+- [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset by Han Xiao, Kashif Rasul and Roland Vollgraf.
 - [IRIS](https://archive.ics.uci.edu/dataset/53/iris) dataset by R.A. Fisher
 - [Three Hawks](https://rdrr.io/cran/Stat2Data/man/Hawks.html) dataset from Stat2Data by Ann Cannon, George Cobb, Bradley Hartlaub, Julie Legler, Robin Lock, Thomas Moore, Allan Rossman, Jeffrey Witmer
 - [Wheat Seeds](https://archive.ics.uci.edu/dataset/236/seeds) dataset by Małgorzata Charytanowicz, Piotr Kulczycki, 
