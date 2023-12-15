@@ -8,7 +8,9 @@ This project uses an [Automatic Image Morphing](https://github.com/jankovicsandr
 The data used for analysis and visualization include: 
 - [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset by Han Xiao, Kashif Rasul and Roland Vollgraf. [arXiv:1708.07747](https://arxiv.org/abs/1708.07747)
 - [IRIS](https://archive.ics.uci.edu/dataset/53/iris) dataset by R.A. Fisher
-- [Three Hawks](https://github.com/vincentarelbundock/Rdatasets/blob/master/csv/Stat2Data/Hawks.csv) 
+- [Three Hawks](https://rdrr.io/cran/Stat2Data/man/Hawks.html) dataset from Stat2Data by Ann Cannon, George Cobb, Bradley Hartlaub, Julie Legler, Robin Lock, Thomas Moore, Allan Rossman, Jeffrey Witmer
+- [Wheat Seeds](https://archive.ics.uci.edu/dataset/236/seeds) dataset by Małgorzata Charytanowicz, Piotr Kulczycki, 
+Piotr A. Kowalski, Szymon Łukasik, Róża Czabak-Garbacz.
 
 
 
